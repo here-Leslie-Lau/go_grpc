@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9742d1dd-4f5a-4005-b150-e07769d21109" name="Default Changelist" comment="" />
+    <list default="true" id="9742d1dd-4f5a-4005-b150-e07769d21109" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/db/db_operate.go" beforeDir="false" afterPath="$PROJECT_DIR$/db/db_operate.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model/order.go" beforeDir="false" afterPath="$PROJECT_DIR$/model/order.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +18,9 @@
     </option>
   </component>
   <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1jogPMVmqgduVKXt5Ud7tGVV6j1" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
